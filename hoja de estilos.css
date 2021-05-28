@@ -1,0 +1,107 @@
+a{
+Padding:10px;
+Fond-family:sans-serif;
+Font-weight:bold;
+color:black;
+text-decoration:none;
+}
+
+Footer{
+background-color:black;
+Color:white;
+Text-align:center;
+Margin-bottom:30px;
+Padding:20px;
+
+}
+
+a {
+text-align:center;
+color:white;
+}
+
+nav {
+text-align:center;
+color:white;
+}
+
+h3 {
+text-align:left;
+
+}
+
+ 
+body{
+  background-color:#ECE8E2;
+background-size: cover;
+background-repeat:no-repeat;
+
+} 
+
+
+div{
+  display: inline-block;
+  vertical-align:center;
+  padding: 15px 15px;
+background-repeat:no-repeat;
+}
+ 
+A:hover{
+color:red;
+}
+
+h1 {
+color:white;
+}
+
+p {
+color:black;
+font-family: 'Mitr', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Tenor Sans', sans-serif;
+Font-size: 20px;
+Text-align: justify;
+}
+
+H3 {
+color:black;
+font-family: 'Mitr', sans-serif;
+font-family: 'Tenor Sans', sans-serif;
+}
+
+H2 {
+color:black;
+font-family: 'Mitr', sans-serif;
+}
+
+H6 {
+color:white;
+}
+
+.home {
+padding: 50px;
+margin: auto;
+}
+
+.home iframe  {
+padding: 20px;
+Width: 1120px;
+Height:630;
+Float: right;
+Margin-left: 10px;
+}
+
+.home1 {
+padding: 50px;
+margin: auto;
+}
+
+.home1 img  {
+padding: 20px;
+Width: 1120px;
+Height:630;
+Float: left;
+Margin-rigth: 10px;
+}
+
+
